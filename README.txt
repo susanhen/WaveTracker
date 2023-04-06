@@ -2,7 +2,7 @@ The wave tracking algorithm
 ============================
 
 Version 1.0 - April 2023
-Susanne Stola-Hentschel
+Susanne Stole-Hentschel
 
 
 Introduction
